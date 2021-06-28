@@ -22,5 +22,4 @@ https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-deliv
 * Use maven to run integration tests and install
  * mvn clean install
 
-#practice28062021
 
